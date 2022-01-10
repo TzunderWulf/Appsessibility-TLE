@@ -161,7 +161,7 @@ export const CategoryScreen = ({ navigation, route }) => {
                             style={[globalStyles.modalButton, globalStyles.button]}
                             onPress={()=>{
                                 setModalVisibility2(false)
-                                navigation.navigate('Home', { 
+                                navigation.navigate('Login', { 
                             });}}>
                             <Text style={globalStyles.buttonText}>Terug naar alle categorieën</Text>
                         </TouchableOpacity>
