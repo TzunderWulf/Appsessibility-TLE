@@ -16,3 +16,9 @@ Although built for a client, this is, at its core, a school project built by fiv
 > For **IOS**, you can scan the QR code with the normal camera application. Click on the pop-up after scanning and it should open up our application.
 
 > For **Android**, open up the Expo GO App and click the **Scan QR Code** button. Scan the QR code and it should automatically open up our application.
+
+
+
+## License
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons-Licentie" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br>
+Dit werk van <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName"> Sara van den Bos - Fela Persaud -Jelmer Rosdorf - Thomas Bezemer - Sam de Waal</span> valt onder een <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Naamsvermelding 4.0 Internationaal-licentie</a>.
