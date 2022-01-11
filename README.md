@@ -17,4 +17,6 @@ Although built for a client, this is, at its core, a school project built by fiv
 
 > For **Android**, open up the Expo GO App and click the **Scan QR Code** button. Scan the QR code and it should automatically open up our application.
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"> alt="Creative Commons-Licentie" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />Dit werk van <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName"> Sara van den Bos - Fela Persaud -Jelmer Rosdorf - Thomas Bezemer - Sam de Waal</span> valt onder een <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Naamsvermelding 4.0 Internationaal-licentie</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/" alt="Creative Commons-Licentie" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
+
+Dit werk van <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName"> Sara van den Bos - Fela Persaud -Jelmer Rosdorf - Thomas Bezemer - Sam de Waal</span> valt onder een <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Naamsvermelding 4.0 Internationaal-licentie</a>.
