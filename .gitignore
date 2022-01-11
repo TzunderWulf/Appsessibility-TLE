@@ -56,3 +56,7 @@ buck-out/
 .expo
 .expo-shared
 web-build/
+
+# firebase
+#
+firebase.js
